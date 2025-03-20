@@ -1,11 +1,9 @@
 @extends('template')
 @section('welcome')
 <div class="relative justify-center items-center">
-    <div class="justify-center items-center top-0">
-        <div class="absolute text-center p-6">
-            <h1 class="font-bold text-info">
-                Sicily Lines
-            </h1>
+    <div class="top-0">
+        <div class="absolute justify-content-center align-items-center font-bold text-info p-6" style="font-size: 2rem">
+          Sicily Lines
         </div>
         <div class="p-6 text-right z-10">
             @if (Route::has('login'))
@@ -42,3 +40,4 @@
         </button>
       </div>
 </div> --}}
+@endsection
