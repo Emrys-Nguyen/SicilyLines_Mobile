@@ -1,0 +1,206 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kyosp\\source\\repos\\SicilyLines\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EE09AC11-BC15-40A1-81F0-8578016B68D2}|API SicilyLines\\API SicilyLines.csproj|c:\\users\\kyosp\\source\\repos\\sicilylines\\api sicilylines\\clientdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE09AC11-BC15-40A1-81F0-8578016B68D2}|API SicilyLines\\API SicilyLines.csproj|solutionrelative:api sicilylines\\clientdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE09AC11-BC15-40A1-81F0-8578016B68D2}|API SicilyLines\\API SicilyLines.csproj|c:\\users\\kyosp\\source\\repos\\sicilylines\\api sicilylines\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EE09AC11-BC15-40A1-81F0-8578016B68D2}|API SicilyLines\\API SicilyLines.csproj|solutionrelative:api sicilylines\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE09AC11-BC15-40A1-81F0-8578016B68D2}|API SicilyLines\\API SicilyLines.csproj|c:\\users\\kyosp\\source\\repos\\sicilylines\\api sicilylines\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE09AC11-BC15-40A1-81F0-8578016B68D2}|API SicilyLines\\API SicilyLines.csproj|solutionrelative:api sicilylines\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9079CA11-5760-49C2-A2A5-8C21D489DBAA}|SicilyLines\\SicilyLines.csproj|c:\\users\\kyosp\\source\\repos\\sicilylines\\sicilylines\\connexionclient.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9079CA11-5760-49C2-A2A5-8C21D489DBAA}|SicilyLines\\SicilyLines.csproj|solutionrelative:sicilylines\\connexionclient.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9079CA11-5760-49C2-A2A5-8C21D489DBAA}|SicilyLines\\SicilyLines.csproj|c:\\users\\kyosp\\source\\repos\\sicilylines\\sicilylines\\connexionclient.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9079CA11-5760-49C2-A2A5-8C21D489DBAA}|SicilyLines\\SicilyLines.csproj|solutionrelative:sicilylines\\connexionclient.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9079CA11-5760-49C2-A2A5-8C21D489DBAA}|SicilyLines\\SicilyLines.csproj|c:\\users\\kyosp\\source\\repos\\sicilylines\\sicilylines\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9079CA11-5760-49C2-A2A5-8C21D489DBAA}|SicilyLines\\SicilyLines.csproj|solutionrelative:sicilylines\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9079CA11-5760-49C2-A2A5-8C21D489DBAA}|SicilyLines\\SicilyLines.csproj|c:\\users\\kyosp\\source\\repos\\sicilylines\\sicilylines\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9079CA11-5760-49C2-A2A5-8C21D489DBAA}|SicilyLines\\SicilyLines.csproj|solutionrelative:sicilylines\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9079CA11-5760-49C2-A2A5-8C21D489DBAA}|SicilyLines\\SicilyLines.csproj|c:\\users\\kyosp\\source\\repos\\sicilylines\\sicilylines\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9079CA11-5760-49C2-A2A5-8C21D489DBAA}|SicilyLines\\SicilyLines.csproj|solutionrelative:sicilylines\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE09AC11-BC15-40A1-81F0-8578016B68D2}|API SicilyLines\\API SicilyLines.csproj|c:\\users\\kyosp\\source\\repos\\sicilylines\\api sicilylines\\connexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE09AC11-BC15-40A1-81F0-8578016B68D2}|API SicilyLines\\API SicilyLines.csproj|solutionrelative:api sicilylines\\connexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE09AC11-BC15-40A1-81F0-8578016B68D2}|API SicilyLines\\API SicilyLines.csproj|c:\\users\\kyosp\\source\\repos\\sicilylines\\api sicilylines\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EE09AC11-BC15-40A1-81F0-8578016B68D2}|API SicilyLines\\API SicilyLines.csproj|solutionrelative:api sicilylines\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9079CA11-5760-49C2-A2A5-8C21D489DBAA}|SicilyLines\\SicilyLines.csproj|c:\\users\\kyosp\\source\\repos\\sicilylines\\sicilylines\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9079CA11-5760-49C2-A2A5-8C21D489DBAA}|SicilyLines\\SicilyLines.csproj|solutionrelative:sicilylines\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\Users\\kyosp\\source\\repos\\SicilyLines\\SicilyLines\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "SicilyLines\\MauiProgram.cs",
+              "ToolTip": "C:\\Users\\kyosp\\source\\repos\\SicilyLines\\SicilyLines\\MauiProgram.cs",
+              "RelativeToolTip": "SicilyLines\\MauiProgram.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T15:22:38.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ConnexionClient.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\kyosp\\source\\repos\\SicilyLines\\SicilyLines\\ConnexionClient.xaml.cs",
+              "RelativeDocumentMoniker": "SicilyLines\\ConnexionClient.xaml.cs",
+              "ToolTip": "C:\\Users\\kyosp\\source\\repos\\SicilyLines\\SicilyLines\\ConnexionClient.xaml.cs",
+              "RelativeToolTip": "SicilyLines\\ConnexionClient.xaml.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwCYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T08:50:46.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ConnexionClient.xaml",
+              "DocumentMoniker": "C:\\Users\\kyosp\\source\\repos\\SicilyLines\\SicilyLines\\ConnexionClient.xaml",
+              "RelativeDocumentMoniker": "SicilyLines\\ConnexionClient.xaml",
+              "ToolTip": "C:\\Users\\kyosp\\source\\repos\\SicilyLines\\SicilyLines\\ConnexionClient.xaml",
+              "RelativeToolTip": "SicilyLines\\ConnexionClient.xaml",
+              "ViewState": "AgIAADwAAAAAAAAAAAAIwE8AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-25T08:50:13.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\kyosp\\source\\repos\\SicilyLines\\API SicilyLines\\appsettings.json",
+              "RelativeDocumentMoniker": "API SicilyLines\\appsettings.json",
+              "ToolTip": "C:\\Users\\kyosp\\source\\repos\\SicilyLines\\API SicilyLines\\appsettings.json",
+              "RelativeToolTip": "API SicilyLines\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-25T07:37:57.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Connexion.cs",
+              "DocumentMoniker": "C:\\Users\\kyosp\\source\\repos\\SicilyLines\\API SicilyLines\\Connexion.cs",
+              "RelativeDocumentMoniker": "API SicilyLines\\Connexion.cs",
+              "ToolTip": "C:\\Users\\kyosp\\source\\repos\\SicilyLines\\API SicilyLines\\Connexion.cs",
+              "RelativeToolTip": "API SicilyLines\\Connexion.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwFYAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-25T07:33:44.004Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "C:\\Users\\kyosp\\source\\repos\\SicilyLines\\SicilyLines\\AppShell.xaml",
+              "RelativeDocumentMoniker": "SicilyLines\\AppShell.xaml",
+              "ToolTip": "C:\\Users\\kyosp\\source\\repos\\SicilyLines\\SicilyLines\\AppShell.xaml",
+              "RelativeToolTip": "SicilyLines\\AppShell.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-24T13:42:54.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\kyosp\\source\\repos\\SicilyLines\\API SicilyLines\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "API SicilyLines\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\kyosp\\source\\repos\\SicilyLines\\API SicilyLines\\Properties\\launchSettings.json",
+              "RelativeToolTip": "API SicilyLines\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-24T13:29:33.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\kyosp\\source\\repos\\SicilyLines\\SicilyLines\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "SicilyLines\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\kyosp\\source\\repos\\SicilyLines\\SicilyLines\\MainPage.xaml.cs",
+              "RelativeToolTip": "SicilyLines\\MainPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T13:27:09.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\kyosp\\source\\repos\\SicilyLines\\SicilyLines\\MainPage.xaml",
+              "RelativeDocumentMoniker": "SicilyLines\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\kyosp\\source\\repos\\SicilyLines\\SicilyLines\\MainPage.xaml",
+              "RelativeToolTip": "SicilyLines\\MainPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-24T13:26:59.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClientDAO.cs",
+              "DocumentMoniker": "C:\\Users\\kyosp\\source\\repos\\SicilyLines\\API SicilyLines\\ClientDAO.cs",
+              "RelativeDocumentMoniker": "API SicilyLines\\ClientDAO.cs",
+              "ToolTip": "C:\\Users\\kyosp\\source\\repos\\SicilyLines\\API SicilyLines\\ClientDAO.cs",
+              "RelativeToolTip": "API SicilyLines\\ClientDAO.cs",
+              "ViewState": "AgIAANcAAAAAAAAAAAAowP8AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T13:22:12.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kyosp\\source\\repos\\SicilyLines\\API SicilyLines\\Program.cs",
+              "RelativeDocumentMoniker": "API SicilyLines\\Program.cs",
+              "ToolTip": "C:\\Users\\kyosp\\source\\repos\\SicilyLines\\API SicilyLines\\Program.cs",
+              "RelativeToolTip": "API SicilyLines\\Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAYwBwAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T12:49:29.324Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
