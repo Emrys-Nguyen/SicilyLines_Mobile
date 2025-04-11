@@ -1,7 +1,14 @@
+using API_SicilyLines;
 using APISicily;
 
 var builder = WebApplication.CreateBuilder(args);
 var app = builder.Build();
+
+app.MapGet("/reservationsitems/{id}", (int idClient) =>
+    ReservationDAO.getReservationsClient(idClient)
+        is List<Reservation> r
+            ? Results.Ok(r)
+            : Results.NotFound());
 
 app.MapGet("/clientsitems", () => ClientDAO.getClients());
 

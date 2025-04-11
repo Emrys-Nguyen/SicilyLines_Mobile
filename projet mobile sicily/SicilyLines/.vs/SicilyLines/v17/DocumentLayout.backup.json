@@ -3,36 +3,56 @@
   "WorkspaceRootPath": "C:\\Users\\kyosp\\Documents\\GitHub\\SicilyLinesSite\\projet mobile sicily\\SicilyLines\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{9079CA11-5760-49C2-A2A5-8C21D489DBAA}|SicilyLines\\SicilyLines.csproj|c:\\users\\kyosp\\documents\\github\\sicilylinessite\\projet mobile sicily\\sicilylines\\sicilylines\\reservationpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9079CA11-5760-49C2-A2A5-8C21D489DBAA}|SicilyLines\\SicilyLines.csproj|solutionrelative:sicilylines\\reservationpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9079CA11-5760-49C2-A2A5-8C21D489DBAA}|SicilyLines\\SicilyLines.csproj|c:\\users\\kyosp\\documents\\github\\sicilylinessite\\projet mobile sicily\\sicilylines\\sicilylines\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{9079CA11-5760-49C2-A2A5-8C21D489DBAA}|SicilyLines\\SicilyLines.csproj|solutionrelative:sicilylines\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9079CA11-5760-49C2-A2A5-8C21D489DBAA}|SicilyLines\\SicilyLines.csproj|c:\\users\\kyosp\\documents\\github\\sicilylinessite\\projet mobile sicily\\sicilylines\\sicilylines\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9079CA11-5760-49C2-A2A5-8C21D489DBAA}|SicilyLines\\SicilyLines.csproj|solutionrelative:sicilylines\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9079CA11-5760-49C2-A2A5-8C21D489DBAA}|SicilyLines\\SicilyLines.csproj|c:\\users\\kyosp\\documents\\github\\sicilylinessite\\projet mobile sicily\\sicilylines\\sicilylines\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9079CA11-5760-49C2-A2A5-8C21D489DBAA}|SicilyLines\\SicilyLines.csproj|solutionrelative:sicilylines\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9079CA11-5760-49C2-A2A5-8C21D489DBAA}|SicilyLines\\SicilyLines.csproj|c:\\users\\kyosp\\documents\\github\\sicilylinessite\\projet mobile sicily\\sicilylines\\sicilylines\\connexionclient.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9079CA11-5760-49C2-A2A5-8C21D489DBAA}|SicilyLines\\SicilyLines.csproj|solutionrelative:sicilylines\\connexionclient.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EE09AC11-BC15-40A1-81F0-8578016B68D2}|API SicilyLines\\API SicilyLines.csproj|c:\\users\\kyosp\\documents\\github\\sicilylinessite\\projet mobile sicily\\sicilylines\\api sicilylines\\reservationdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE09AC11-BC15-40A1-81F0-8578016B68D2}|API SicilyLines\\API SicilyLines.csproj|solutionrelative:api sicilylines\\reservationdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EE09AC11-BC15-40A1-81F0-8578016B68D2}|API SicilyLines\\API SicilyLines.csproj|c:\\users\\kyosp\\documents\\github\\sicilylinessite\\projet mobile sicily\\sicilylines\\api sicilylines\\clientdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EE09AC11-BC15-40A1-81F0-8578016B68D2}|API SicilyLines\\API SicilyLines.csproj|solutionrelative:api sicilylines\\clientdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EE09AC11-BC15-40A1-81F0-8578016B68D2}|API SicilyLines\\API SicilyLines.csproj|c:\\users\\kyosp\\documents\\github\\sicilylinessite\\projet mobile sicily\\sicilylines\\api sicilylines\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{EE09AC11-BC15-40A1-81F0-8578016B68D2}|API SicilyLines\\API SicilyLines.csproj|solutionrelative:api sicilylines\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{EE09AC11-BC15-40A1-81F0-8578016B68D2}|API SicilyLines\\API SicilyLines.csproj|c:\\users\\kyosp\\documents\\github\\sicilylinessite\\projet mobile sicily\\sicilylines\\api sicilylines\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE09AC11-BC15-40A1-81F0-8578016B68D2}|API SicilyLines\\API SicilyLines.csproj|solutionrelative:api sicilylines\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EE09AC11-BC15-40A1-81F0-8578016B68D2}|API SicilyLines\\API SicilyLines.csproj|c:\\users\\kyosp\\documents\\github\\sicilylinessite\\projet mobile sicily\\sicilylines\\api sicilylines\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EE09AC11-BC15-40A1-81F0-8578016B68D2}|API SicilyLines\\API SicilyLines.csproj|solutionrelative:api sicilylines\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9079CA11-5760-49C2-A2A5-8C21D489DBAA}|SicilyLines\\SicilyLines.csproj|c:\\users\\kyosp\\documents\\github\\sicilylinessite\\projet mobile sicily\\sicilylines\\sicilylines\\connexionclient.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{9079CA11-5760-49C2-A2A5-8C21D489DBAA}|SicilyLines\\SicilyLines.csproj|solutionrelative:sicilylines\\connexionclient.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{EE09AC11-BC15-40A1-81F0-8578016B68D2}|API SicilyLines\\API SicilyLines.csproj|c:\\users\\kyosp\\documents\\github\\sicilylinessite\\projet mobile sicily\\sicilylines\\api sicilylines\\clientdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE09AC11-BC15-40A1-81F0-8578016B68D2}|API SicilyLines\\API SicilyLines.csproj|solutionrelative:api sicilylines\\clientdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9079CA11-5760-49C2-A2A5-8C21D489DBAA}|SicilyLines\\SicilyLines.csproj|c:\\users\\kyosp\\documents\\github\\sicilylinessite\\projet mobile sicily\\sicilylines\\sicilylines\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9079CA11-5760-49C2-A2A5-8C21D489DBAA}|SicilyLines\\SicilyLines.csproj|solutionrelative:sicilylines\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{EE09AC11-BC15-40A1-81F0-8578016B68D2}|API SicilyLines\\API SicilyLines.csproj|c:\\users\\kyosp\\documents\\github\\sicilylinessite\\projet mobile sicily\\sicilylines\\api sicilylines\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE09AC11-BC15-40A1-81F0-8578016B68D2}|API SicilyLines\\API SicilyLines.csproj|solutionrelative:api sicilylines\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE09AC11-BC15-40A1-81F0-8578016B68D2}|API SicilyLines\\API SicilyLines.csproj|c:\\users\\kyosp\\documents\\github\\sicilylinessite\\projet mobile sicily\\sicilylines\\api sicilylines\\api sicilylines.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{EE09AC11-BC15-40A1-81F0-8578016B68D2}|API SicilyLines\\API SicilyLines.csproj|solutionrelative:api sicilylines\\api sicilylines.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9079CA11-5760-49C2-A2A5-8C21D489DBAA}|SicilyLines\\SicilyLines.csproj|c:\\users\\kyosp\\documents\\github\\sicilylinessite\\projet mobile sicily\\sicilylines\\sicilylines\\connexionclient.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9079CA11-5760-49C2-A2A5-8C21D489DBAA}|SicilyLines\\SicilyLines.csproj|solutionrelative:sicilylines\\connexionclient.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9079CA11-5760-49C2-A2A5-8C21D489DBAA}|SicilyLines\\SicilyLines.csproj|c:\\users\\kyosp\\documents\\github\\sicilylinessite\\projet mobile sicily\\sicilylines\\sicilylines\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9079CA11-5760-49C2-A2A5-8C21D489DBAA}|SicilyLines\\SicilyLines.csproj|solutionrelative:sicilylines\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE09AC11-BC15-40A1-81F0-8578016B68D2}|API SicilyLines\\API SicilyLines.csproj|c:\\users\\kyosp\\documents\\github\\sicilylinessite\\projet mobile sicily\\sicilylines\\api sicilylines\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EE09AC11-BC15-40A1-81F0-8578016B68D2}|API SicilyLines\\API SicilyLines.csproj|solutionrelative:api sicilylines\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9079CA11-5760-49C2-A2A5-8C21D489DBAA}|SicilyLines\\SicilyLines.csproj|c:\\users\\kyosp\\documents\\github\\sicilylinessite\\projet mobile sicily\\sicilylines\\sicilylines\\connexionclient.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9079CA11-5760-49C2-A2A5-8C21D489DBAA}|SicilyLines\\SicilyLines.csproj|solutionrelative:sicilylines\\connexionclient.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9079CA11-5760-49C2-A2A5-8C21D489DBAA}|SicilyLines\\SicilyLines.csproj|c:\\users\\kyosp\\documents\\github\\sicilylinessite\\projet mobile sicily\\sicilylines\\sicilylines\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
@@ -54,7 +74,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -62,7 +82,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 0,
+              "Title": "ReservationPage.xaml",
+              "DocumentMoniker": "C:\\Users\\kyosp\\Documents\\GitHub\\SicilyLinesSite\\projet mobile sicily\\SicilyLines\\SicilyLines\\ReservationPage.xaml",
+              "RelativeDocumentMoniker": "SicilyLines\\ReservationPage.xaml",
+              "ToolTip": "C:\\Users\\kyosp\\Documents\\GitHub\\SicilyLinesSite\\projet mobile sicily\\SicilyLines\\SicilyLines\\ReservationPage.xaml",
+              "RelativeToolTip": "SicilyLines\\ReservationPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-10T14:20:34.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "MauiProgram.cs",
               "DocumentMoniker": "C:\\Users\\kyosp\\Documents\\GitHub\\SicilyLinesSite\\projet mobile sicily\\SicilyLines\\SicilyLines\\MauiProgram.cs",
               "RelativeDocumentMoniker": "SicilyLines\\MauiProgram.cs",
@@ -70,11 +103,77 @@
               "RelativeToolTip": "SicilyLines\\MauiProgram.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-26T15:22:38.856Z"
+              "WhenOpened": "2025-04-10T14:18:05.98Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kyosp\\Documents\\GitHub\\SicilyLinesSite\\projet mobile sicily\\SicilyLines\\API SicilyLines\\Program.cs",
+              "RelativeDocumentMoniker": "API SicilyLines\\Program.cs",
+              "ToolTip": "C:\\Users\\kyosp\\Documents\\GitHub\\SicilyLinesSite\\projet mobile sicily\\SicilyLines\\API SicilyLines\\Program.cs",
+              "RelativeToolTip": "API SicilyLines\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T14:14:54.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\kyosp\\Documents\\GitHub\\SicilyLinesSite\\projet mobile sicily\\SicilyLines\\API SicilyLines\\Client.cs",
+              "RelativeDocumentMoniker": "API SicilyLines\\Client.cs",
+              "ToolTip": "C:\\Users\\kyosp\\Documents\\GitHub\\SicilyLinesSite\\projet mobile sicily\\SicilyLines\\API SicilyLines\\Client.cs",
+              "RelativeToolTip": "API SicilyLines\\Client.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAA3wC4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T13:48:39.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "API SicilyLines.http",
+              "DocumentMoniker": "C:\\Users\\kyosp\\Documents\\GitHub\\SicilyLinesSite\\projet mobile sicily\\SicilyLines\\API SicilyLines\\API SicilyLines.http",
+              "RelativeDocumentMoniker": "API SicilyLines\\API SicilyLines.http",
+              "ToolTip": "C:\\Users\\kyosp\\Documents\\GitHub\\SicilyLinesSite\\projet mobile sicily\\SicilyLines\\API SicilyLines\\API SicilyLines.http",
+              "RelativeToolTip": "API SicilyLines\\API SicilyLines.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-04-09T14:13:11.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ReservationDAO.cs",
+              "DocumentMoniker": "C:\\Users\\kyosp\\Documents\\GitHub\\SicilyLinesSite\\projet mobile sicily\\SicilyLines\\API SicilyLines\\ReservationDAO.cs",
+              "RelativeDocumentMoniker": "API SicilyLines\\ReservationDAO.cs",
+              "ToolTip": "C:\\Users\\kyosp\\Documents\\GitHub\\SicilyLinesSite\\projet mobile sicily\\SicilyLines\\API SicilyLines\\ReservationDAO.cs",
+              "RelativeToolTip": "API SicilyLines\\ReservationDAO.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAQwFIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T12:30:44.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Reservation.cs",
+              "DocumentMoniker": "C:\\Users\\kyosp\\Documents\\GitHub\\SicilyLinesSite\\projet mobile sicily\\SicilyLines\\API SicilyLines\\Reservation.cs",
+              "RelativeDocumentMoniker": "API SicilyLines\\Reservation.cs",
+              "ToolTip": "C:\\Users\\kyosp\\Documents\\GitHub\\SicilyLinesSite\\projet mobile sicily\\SicilyLines\\API SicilyLines\\Reservation.cs",
+              "RelativeToolTip": "API SicilyLines\\Reservation.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T11:55:09.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "ConnexionClient.xaml.cs",
               "DocumentMoniker": "C:\\Users\\kyosp\\Documents\\GitHub\\SicilyLinesSite\\projet mobile sicily\\SicilyLines\\SicilyLines\\ConnexionClient.xaml.cs",
               "RelativeDocumentMoniker": "SicilyLines\\ConnexionClient.xaml.cs",
@@ -86,7 +185,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 12,
               "Title": "ConnexionClient.xaml",
               "DocumentMoniker": "C:\\Users\\kyosp\\Documents\\GitHub\\SicilyLinesSite\\projet mobile sicily\\SicilyLines\\SicilyLines\\ConnexionClient.xaml",
               "RelativeDocumentMoniker": "SicilyLines\\ConnexionClient.xaml",
@@ -98,7 +197,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 15,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\kyosp\\Documents\\GitHub\\SicilyLinesSite\\projet mobile sicily\\SicilyLines\\API SicilyLines\\appsettings.json",
               "RelativeDocumentMoniker": "API SicilyLines\\appsettings.json",
@@ -110,7 +209,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 14,
               "Title": "Connexion.cs",
               "DocumentMoniker": "C:\\Users\\kyosp\\Documents\\GitHub\\SicilyLinesSite\\projet mobile sicily\\SicilyLines\\API SicilyLines\\Connexion.cs",
               "RelativeDocumentMoniker": "API SicilyLines\\Connexion.cs",
@@ -122,7 +221,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 13,
               "Title": "AppShell.xaml",
               "DocumentMoniker": "C:\\Users\\kyosp\\Documents\\GitHub\\SicilyLinesSite\\projet mobile sicily\\SicilyLines\\SicilyLines\\AppShell.xaml",
               "RelativeDocumentMoniker": "SicilyLines\\AppShell.xaml",
@@ -134,7 +233,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 11,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\kyosp\\Documents\\GitHub\\SicilyLinesSite\\projet mobile sicily\\SicilyLines\\API SicilyLines\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "API SicilyLines\\Properties\\launchSettings.json",
@@ -146,7 +245,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 10,
               "Title": "MainPage.xaml.cs",
               "DocumentMoniker": "C:\\Users\\kyosp\\Documents\\GitHub\\SicilyLinesSite\\projet mobile sicily\\SicilyLines\\SicilyLines\\MainPage.xaml.cs",
               "RelativeDocumentMoniker": "SicilyLines\\MainPage.xaml.cs",
@@ -158,7 +257,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "MainPage.xaml",
               "DocumentMoniker": "C:\\Users\\kyosp\\Documents\\GitHub\\SicilyLinesSite\\projet mobile sicily\\SicilyLines\\SicilyLines\\MainPage.xaml",
               "RelativeDocumentMoniker": "SicilyLines\\MainPage.xaml",
@@ -171,27 +270,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "ClientDAO.cs",
               "DocumentMoniker": "C:\\Users\\kyosp\\Documents\\GitHub\\SicilyLinesSite\\projet mobile sicily\\SicilyLines\\API SicilyLines\\ClientDAO.cs",
               "RelativeDocumentMoniker": "API SicilyLines\\ClientDAO.cs",
               "ToolTip": "C:\\Users\\kyosp\\Documents\\GitHub\\SicilyLinesSite\\projet mobile sicily\\SicilyLines\\API SicilyLines\\ClientDAO.cs",
               "RelativeToolTip": "API SicilyLines\\ClientDAO.cs",
-              "ViewState": "AgIAAMgAAAAAAAAAAAAowAEBAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAADkAAAAAAAAAAAAiwPIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-24T13:22:12.045Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\kyosp\\Documents\\GitHub\\SicilyLinesSite\\projet mobile sicily\\SicilyLines\\API SicilyLines\\Program.cs",
-              "RelativeDocumentMoniker": "API SicilyLines\\Program.cs",
-              "ToolTip": "C:\\Users\\kyosp\\Documents\\GitHub\\SicilyLinesSite\\projet mobile sicily\\SicilyLines\\API SicilyLines\\Program.cs",
-              "RelativeToolTip": "API SicilyLines\\Program.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAYwBwAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-24T12:49:29.324Z"
+              "WhenOpened": "2025-03-24T13:22:12.045Z",
+              "EditorCaption": ""
             }
           ]
         }
