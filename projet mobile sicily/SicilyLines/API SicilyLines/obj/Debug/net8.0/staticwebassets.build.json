@@ -1,12 +1,11 @@
 {
   "Version": 1,
-  "Hash": "jM38ky2GMSMk4eVC4MJx1O2OW8L/qrHhy96FILqjRgQ=",
+  "Hash": "FWh1BRvB6bJZ0NivNNnMiuY98E0BiZ260nZ1lMMNLAo=",
   "Source": "API SicilyLines",
   "BasePath": "_content/API SicilyLines",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
   "DiscoveryPatterns": [],
-  "Assets": [],
-  "Endpoints": []
+  "Assets": []
 }

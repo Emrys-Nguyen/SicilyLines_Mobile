@@ -64,13 +64,13 @@
 	</ItemGroup>
 
 	<ItemGroup>
-	  <Compile Update="ConnexionClient.xaml.cs">
-	    <DependentUpon>ConnexionClient.xaml</DependentUpon>
-	  </Compile>
-	</ItemGroup>
-
-	<ItemGroup>
+	  <MauiXaml Update="affichage_button.xaml">
+	    <Generator>MSBuild:Compile</Generator>
+	  </MauiXaml>
 	  <MauiXaml Update="ConnexionClient.xaml">
+	    <Generator>MSBuild:Compile</Generator>
+	  </MauiXaml>
+	  <MauiXaml Update="Coordonnee_client.xaml">
 	    <Generator>MSBuild:Compile</Generator>
 	  </MauiXaml>
 	</ItemGroup>

@@ -76,6 +76,7 @@
             <Button Text="Réinitialisez votre mot de passe" Background="White" TextColor="Gray"
                        HorizontalOptions="Center" Margin="0,10,0,0"/>
 
+
         </VerticalStackLayout>
     </ContentPage.Content>
 </ContentPage>

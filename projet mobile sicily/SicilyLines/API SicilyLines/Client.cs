@@ -6,6 +6,8 @@
         private int id;
         private string login;
         private string mdp;
+        private string nom;
+        private string prenom;
         private string adresse;
         private string cp;
 
@@ -16,15 +18,19 @@
         public int Id { get => id; set => id = value; }
         public string Login { get => login; set => login = value; }
         public string Mdp { get => mdp; set => mdp = value; }
+        public string Nom { get => nom; set => nom = value; }
+        public string Prenom { get => prenom; set => prenom = value; }
         public string Cp { get => cp; set => cp = value; }
         public string Adresse { get => adresse; set => adresse = value; }
 
         // Constructeur de la classe Employe
-        public Client(int unId, string unLogin, string unMdp, string uneAdresse, string unCp)
+        public Client(int unId, string unLogin, string unMdp, string unNom,string unPrenom, string uneAdresse, string unCp)
         {
             this.id = unId;
             this.login = unLogin;
             this.mdp = unMdp;
+            this.nom = unNom;
+            this.prenom = unPrenom;
             this.adresse = uneAdresse;
             this.cp = unCp;
         }
@@ -39,6 +45,10 @@
             this.login = unLogin;
 
             this.mdp = "";
+
+            this.nom = "";
+
+            this.prenom = "";
 
             this.adresse = "";
 

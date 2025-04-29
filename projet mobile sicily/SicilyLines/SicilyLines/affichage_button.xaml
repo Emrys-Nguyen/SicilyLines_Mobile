@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="SicilyLines.affichage_button"
+             xmlns:local="clr-namespace:SicilyLines"
+             Title="Bienvenue">
+    <ContentPage.Content>
+        <VerticalStackLayout HorizontalOptions="Center" VerticalOptions="Center">
+            <Button Clicked="Button_Clicked_1" Width="150" Height="40" Text="Coordonnées" Margin="0,0,0,10"/>
+                <Button Clicked="Button_Clicked" Width="150" Height="40" Text="Réservation"/>
+        </VerticalStackLayout>
+    </ContentPage.Content>
+
+</ContentPage>

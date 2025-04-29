@@ -113,3 +113,57 @@ C:\Users\kyosp\Documents\GitHub\SicilyLinesSite\projet mobile sicily\SicilyLines
 C:\Users\kyosp\Documents\GitHub\SicilyLinesSite\projet mobile sicily\SicilyLines\API SicilyLines\obj\Debug\net8.0\API SicilyLines.pdb
 C:\Users\kyosp\Documents\GitHub\SicilyLinesSite\projet mobile sicily\SicilyLines\API SicilyLines\obj\Debug\net8.0\API SicilyLines.genruntimeconfig.cache
 C:\Users\kyosp\Documents\GitHub\SicilyLinesSite\projet mobile sicily\SicilyLines\API SicilyLines\obj\Debug\net8.0\ref\API SicilyLines.dll
+C:\Users\annec\Documents\GitHub\SicilyLinesSite\projet mobile sicily\SicilyLines\API SicilyLines\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\annec\Documents\GitHub\SicilyLinesSite\projet mobile sicily\SicilyLines\API SicilyLines\bin\Debug\net8.0\appsettings.json
+C:\Users\annec\Documents\GitHub\SicilyLinesSite\projet mobile sicily\SicilyLines\API SicilyLines\bin\Debug\net8.0\API SicilyLines.exe
+C:\Users\annec\Documents\GitHub\SicilyLinesSite\projet mobile sicily\SicilyLines\API SicilyLines\bin\Debug\net8.0\API SicilyLines.deps.json
+C:\Users\annec\Documents\GitHub\SicilyLinesSite\projet mobile sicily\SicilyLines\API SicilyLines\bin\Debug\net8.0\API SicilyLines.runtimeconfig.json
+C:\Users\annec\Documents\GitHub\SicilyLinesSite\projet mobile sicily\SicilyLines\API SicilyLines\bin\Debug\net8.0\API SicilyLines.dll
+C:\Users\annec\Documents\GitHub\SicilyLinesSite\projet mobile sicily\SicilyLines\API SicilyLines\bin\Debug\net8.0\API SicilyLines.pdb
+C:\Users\annec\Documents\GitHub\SicilyLinesSite\projet mobile sicily\SicilyLines\API SicilyLines\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+C:\Users\annec\Documents\GitHub\SicilyLinesSite\projet mobile sicily\SicilyLines\API SicilyLines\bin\Debug\net8.0\Google.Protobuf.dll
+C:\Users\annec\Documents\GitHub\SicilyLinesSite\projet mobile sicily\SicilyLines\API SicilyLines\bin\Debug\net8.0\K4os.Compression.LZ4.dll
+C:\Users\annec\Documents\GitHub\SicilyLinesSite\projet mobile sicily\SicilyLines\API SicilyLines\bin\Debug\net8.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\annec\Documents\GitHub\SicilyLinesSite\projet mobile sicily\SicilyLines\API SicilyLines\bin\Debug\net8.0\K4os.Hash.xxHash.dll
+C:\Users\annec\Documents\GitHub\SicilyLinesSite\projet mobile sicily\SicilyLines\API SicilyLines\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\annec\Documents\GitHub\SicilyLinesSite\projet mobile sicily\SicilyLines\API SicilyLines\bin\Debug\net8.0\MySql.Data.dll
+C:\Users\annec\Documents\GitHub\SicilyLinesSite\projet mobile sicily\SicilyLines\API SicilyLines\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\annec\Documents\GitHub\SicilyLinesSite\projet mobile sicily\SicilyLines\API SicilyLines\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\annec\Documents\GitHub\SicilyLinesSite\projet mobile sicily\SicilyLines\API SicilyLines\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\annec\Documents\GitHub\SicilyLinesSite\projet mobile sicily\SicilyLines\API SicilyLines\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\annec\Documents\GitHub\SicilyLinesSite\projet mobile sicily\SicilyLines\API SicilyLines\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\annec\Documents\GitHub\SicilyLinesSite\projet mobile sicily\SicilyLines\API SicilyLines\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\annec\Documents\GitHub\SicilyLinesSite\projet mobile sicily\SicilyLines\API SicilyLines\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\annec\Documents\GitHub\SicilyLinesSite\projet mobile sicily\SicilyLines\API SicilyLines\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\Users\annec\Documents\GitHub\SicilyLinesSite\projet mobile sicily\SicilyLines\API SicilyLines\bin\Debug\net8.0\System.Text.Json.dll
+C:\Users\annec\Documents\GitHub\SicilyLinesSite\projet mobile sicily\SicilyLines\API SicilyLines\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\annec\Documents\GitHub\SicilyLinesSite\projet mobile sicily\SicilyLines\API SicilyLines\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\annec\Documents\GitHub\SicilyLinesSite\projet mobile sicily\SicilyLines\API SicilyLines\bin\Debug\net8.0\runtimes\win-x64\native\comerr64.dll
+C:\Users\annec\Documents\GitHub\SicilyLinesSite\projet mobile sicily\SicilyLines\API SicilyLines\bin\Debug\net8.0\runtimes\win-x64\native\gssapi64.dll
+C:\Users\annec\Documents\GitHub\SicilyLinesSite\projet mobile sicily\SicilyLines\API SicilyLines\bin\Debug\net8.0\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\annec\Documents\GitHub\SicilyLinesSite\projet mobile sicily\SicilyLines\API SicilyLines\bin\Debug\net8.0\runtimes\win-x64\native\krb5_64.dll
+C:\Users\annec\Documents\GitHub\SicilyLinesSite\projet mobile sicily\SicilyLines\API SicilyLines\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
+C:\Users\annec\Documents\GitHub\SicilyLinesSite\projet mobile sicily\SicilyLines\API SicilyLines\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\annec\Documents\GitHub\SicilyLinesSite\projet mobile sicily\SicilyLines\API SicilyLines\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+C:\Users\annec\Documents\GitHub\SicilyLinesSite\projet mobile sicily\SicilyLines\API SicilyLines\obj\Debug\net8.0\API SicilyLines.csproj.AssemblyReference.cache
+C:\Users\annec\Documents\GitHub\SicilyLinesSite\projet mobile sicily\SicilyLines\API SicilyLines\obj\Debug\net8.0\API SicilyLines.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\annec\Documents\GitHub\SicilyLinesSite\projet mobile sicily\SicilyLines\API SicilyLines\obj\Debug\net8.0\API SicilyLines.AssemblyInfoInputs.cache
+C:\Users\annec\Documents\GitHub\SicilyLinesSite\projet mobile sicily\SicilyLines\API SicilyLines\obj\Debug\net8.0\API SicilyLines.AssemblyInfo.cs
+C:\Users\annec\Documents\GitHub\SicilyLinesSite\projet mobile sicily\SicilyLines\API SicilyLines\obj\Debug\net8.0\API SicilyLines.csproj.CoreCompileInputs.cache
+C:\Users\annec\Documents\GitHub\SicilyLinesSite\projet mobile sicily\SicilyLines\API SicilyLines\obj\Debug\net8.0\API SicilyLines.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\annec\Documents\GitHub\SicilyLinesSite\projet mobile sicily\SicilyLines\API SicilyLines\obj\Debug\net8.0\API SicilyLines.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\annec\Documents\GitHub\SicilyLinesSite\projet mobile sicily\SicilyLines\API SicilyLines\obj\Debug\net8.0\API SicilyLines.sourcelink.json
+C:\Users\annec\Documents\GitHub\SicilyLinesSite\projet mobile sicily\SicilyLines\API SicilyLines\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\annec\Documents\GitHub\SicilyLinesSite\projet mobile sicily\SicilyLines\API SicilyLines\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\annec\Documents\GitHub\SicilyLinesSite\projet mobile sicily\SicilyLines\API SicilyLines\obj\Debug\net8.0\staticwebassets\msbuild.API SicilyLines.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\annec\Documents\GitHub\SicilyLinesSite\projet mobile sicily\SicilyLines\API SicilyLines\obj\Debug\net8.0\staticwebassets\msbuild.build.API SicilyLines.props
+C:\Users\annec\Documents\GitHub\SicilyLinesSite\projet mobile sicily\SicilyLines\API SicilyLines\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.API SicilyLines.props
+C:\Users\annec\Documents\GitHub\SicilyLinesSite\projet mobile sicily\SicilyLines\API SicilyLines\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.API SicilyLines.props
+C:\Users\annec\Documents\GitHub\SicilyLinesSite\projet mobile sicily\SicilyLines\API SicilyLines\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\annec\Documents\GitHub\SicilyLinesSite\projet mobile sicily\SicilyLines\API SicilyLines\obj\Debug\net8.0\scopedcss\bundle\API SicilyLines.styles.css
+C:\Users\annec\Documents\GitHub\SicilyLinesSite\projet mobile sicily\SicilyLines\API SicilyLines\obj\Debug\net8.0\API Sici.0150F185.Up2Date
+C:\Users\annec\Documents\GitHub\SicilyLinesSite\projet mobile sicily\SicilyLines\API SicilyLines\obj\Debug\net8.0\API SicilyLines.dll
+C:\Users\annec\Documents\GitHub\SicilyLinesSite\projet mobile sicily\SicilyLines\API SicilyLines\obj\Debug\net8.0\refint\API SicilyLines.dll
+C:\Users\annec\Documents\GitHub\SicilyLinesSite\projet mobile sicily\SicilyLines\API SicilyLines\obj\Debug\net8.0\API SicilyLines.pdb
+C:\Users\annec\Documents\GitHub\SicilyLinesSite\projet mobile sicily\SicilyLines\API SicilyLines\obj\Debug\net8.0\API SicilyLines.genruntimeconfig.cache
+C:\Users\annec\Documents\GitHub\SicilyLinesSite\projet mobile sicily\SicilyLines\API SicilyLines\obj\Debug\net8.0\ref\API SicilyLines.dll

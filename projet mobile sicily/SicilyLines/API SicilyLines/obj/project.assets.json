@@ -2044,23 +2044,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\kyosp\\.nuget\\packages\\": {},
+    "C:\\Users\\annec\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\kyosp\\Documents\\GitHub\\SicilyLinesSite\\projet mobile sicily\\SicilyLines\\API SicilyLines\\API SicilyLines.csproj",
+      "projectUniqueName": "C:\\Users\\annec\\Documents\\GitHub\\SicilyLinesSite\\projet mobile sicily\\SicilyLines\\API SicilyLines\\API SicilyLines.csproj",
       "projectName": "API SicilyLines",
-      "projectPath": "C:\\Users\\kyosp\\Documents\\GitHub\\SicilyLinesSite\\projet mobile sicily\\SicilyLines\\API SicilyLines\\API SicilyLines.csproj",
-      "packagesPath": "C:\\Users\\kyosp\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\kyosp\\Documents\\GitHub\\SicilyLinesSite\\projet mobile sicily\\SicilyLines\\API SicilyLines\\obj\\",
+      "projectPath": "C:\\Users\\annec\\Documents\\GitHub\\SicilyLinesSite\\projet mobile sicily\\SicilyLines\\API SicilyLines\\API SicilyLines.csproj",
+      "packagesPath": "C:\\Users\\annec\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\annec\\Documents\\GitHub\\SicilyLinesSite\\projet mobile sicily\\SicilyLines\\API SicilyLines\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\kyosp\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\annec\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -2087,8 +2087,7 @@
         "enableAudit": "true",
         "auditLevel": "low",
         "auditMode": "direct"
-      },
-      "SdkAnalysisLevel": "9.0.200"
+      }
     },
     "frameworks": {
       "net8.0": {
@@ -2122,7 +2121,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
