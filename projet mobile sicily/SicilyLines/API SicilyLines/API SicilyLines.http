@@ -9,3 +9,8 @@ GET {{API_SicilyLines_HostAddress}}/Client/
 Accept: application/json
 
 ###
+
+GET {{API_SicilyLines_HostAddress}}/Reservation/
+Accept: application/json
+
+###

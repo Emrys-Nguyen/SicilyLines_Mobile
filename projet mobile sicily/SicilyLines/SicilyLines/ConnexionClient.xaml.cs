@@ -18,9 +18,9 @@ namespace SicilyLines
             if (response.IsSuccessStatusCode)
             {
                 bool res = false;
-
                 var content = await response.Content.ReadAsStringAsync();
                 var Items = JsonConvert.DeserializeObject<dynamic>(content);
+                int idLogin = 0;
 
 
                 foreach (var item in Items)
@@ -32,12 +32,13 @@ namespace SicilyLines
                     {
 
                         res = true;
+                        idLogin = item.id;
                     }
 
                 }
                 if (res)
                 {
-                    await Navigation.PushAsync(new MainPage());
+                    await Navigation.PushAsync(new ReservationPage(idLogin));
                 }
                 else
                 {

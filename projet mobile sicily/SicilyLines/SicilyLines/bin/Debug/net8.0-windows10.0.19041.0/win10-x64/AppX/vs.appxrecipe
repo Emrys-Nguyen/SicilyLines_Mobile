@@ -30,25 +30,25 @@
     <AppXManifest Include="C:\Users\kyosp\Documents\GitHub\SicilyLinesSite\projet mobile sicily\SicilyLines\SicilyLines\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2025-04-07T11:35:15.723</Modified>
+      <Modified>2025-04-29T07:42:10.633</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\kyosp\Documents\GitHub\SicilyLinesSite\projet mobile sicily\SicilyLines\SicilyLines\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2025-04-07T11:25:43.181</Modified>
+      <Modified>2025-04-11T09:24:38.221</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kyosp\Documents\GitHub\SicilyLinesSite\projet mobile sicily\SicilyLines\SicilyLines\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\SicilyLines.runtimeconfig.json">
       <PackagePath>SicilyLines.runtimeconfig.json</PackagePath>
-      <Modified>2025-04-07T11:35:14.770</Modified>
+      <Modified>2025-04-11T09:24:36.298</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kyosp\Documents\GitHub\SicilyLinesSite\projet mobile sicily\SicilyLines\SicilyLines\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\SicilyLines.dll">
       <PackagePath>SicilyLines.dll</PackagePath>
-      <Modified>2025-04-07T11:35:11.921</Modified>
+      <Modified>2025-04-29T07:42:09.802</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kyosp\Documents\GitHub\SicilyLinesSite\projet mobile sicily\SicilyLines\SicilyLines\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>SicilyLines.exe</PackagePath>
-      <Modified>2025-04-07T11:35:12.168</Modified>
+      <Modified>2025-04-29T07:42:09.879</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kyosp\Documents\GitHub\SicilyLinesSite\projet mobile sicily\SicilyLines\SicilyLines\Resources\Raw\AboutAssets.txt">
       <PackagePath>AboutAssets.txt</PackagePath>
@@ -56,23 +56,23 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kyosp\Documents\GitHub\SicilyLinesSite\projet mobile sicily\SicilyLines\SicilyLines\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-100.png">
       <PackagePath>splashSplashScreen.scale-100.png</PackagePath>
-      <Modified>2025-03-25T08:17:02.040</Modified>
+      <Modified>2025-04-11T09:24:26.256</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kyosp\Documents\GitHub\SicilyLinesSite\projet mobile sicily\SicilyLines\SicilyLines\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-125.png">
       <PackagePath>splashSplashScreen.scale-125.png</PackagePath>
-      <Modified>2025-03-25T08:17:02.060</Modified>
+      <Modified>2025-04-11T09:24:26.318</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kyosp\Documents\GitHub\SicilyLinesSite\projet mobile sicily\SicilyLines\SicilyLines\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-150.png">
       <PackagePath>splashSplashScreen.scale-150.png</PackagePath>
-      <Modified>2025-03-25T08:17:02.084</Modified>
+      <Modified>2025-04-11T09:24:26.432</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kyosp\Documents\GitHub\SicilyLinesSite\projet mobile sicily\SicilyLines\SicilyLines\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-200.png">
       <PackagePath>splashSplashScreen.scale-200.png</PackagePath>
-      <Modified>2025-03-25T08:17:02.118</Modified>
+      <Modified>2025-04-11T09:24:26.518</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kyosp\Documents\GitHub\SicilyLinesSite\projet mobile sicily\SicilyLines\SicilyLines\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\sp\splashSplashScreen.scale-400.png">
       <PackagePath>splashSplashScreen.scale-400.png</PackagePath>
-      <Modified>2025-03-25T08:17:02.247</Modified>
+      <Modified>2025-04-11T09:24:26.734</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kyosp\Documents\GitHub\SicilyLinesSite\projet mobile sicily\SicilyLines\SicilyLines\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\f\MaterialIcons-Regular.ttf">
       <PackagePath>MaterialIcons-Regular.ttf</PackagePath>
@@ -88,211 +88,211 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kyosp\Documents\GitHub\SicilyLinesSite\projet mobile sicily\SicilyLines\SicilyLines\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appicon.ico">
       <PackagePath>appicon.ico</PackagePath>
-      <Modified>2025-03-25T08:17:03.324</Modified>
+      <Modified>2025-04-11T09:24:29.803</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kyosp\Documents\GitHub\SicilyLinesSite\projet mobile sicily\SicilyLines\SicilyLines\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-100.png">
       <PackagePath>appiconLargeTile.scale-100.png</PackagePath>
-      <Modified>2025-03-25T08:17:03.304</Modified>
+      <Modified>2025-04-11T09:24:29.749</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kyosp\Documents\GitHub\SicilyLinesSite\projet mobile sicily\SicilyLines\SicilyLines\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-125.png">
       <PackagePath>appiconLargeTile.scale-125.png</PackagePath>
-      <Modified>2025-03-25T08:17:03.304</Modified>
+      <Modified>2025-04-11T09:24:29.749</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kyosp\Documents\GitHub\SicilyLinesSite\projet mobile sicily\SicilyLines\SicilyLines\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-150.png">
       <PackagePath>appiconLargeTile.scale-150.png</PackagePath>
-      <Modified>2025-03-25T08:17:03.303</Modified>
+      <Modified>2025-04-11T09:24:29.749</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kyosp\Documents\GitHub\SicilyLinesSite\projet mobile sicily\SicilyLines\SicilyLines\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-200.png">
       <PackagePath>appiconLargeTile.scale-200.png</PackagePath>
-      <Modified>2025-03-25T08:17:03.303</Modified>
+      <Modified>2025-04-11T09:24:29.743</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kyosp\Documents\GitHub\SicilyLinesSite\projet mobile sicily\SicilyLines\SicilyLines\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLargeTile.scale-400.png">
       <PackagePath>appiconLargeTile.scale-400.png</PackagePath>
-      <Modified>2025-03-25T08:17:03.302</Modified>
+      <Modified>2025-04-11T09:24:29.743</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kyosp\Documents\GitHub\SicilyLinesSite\projet mobile sicily\SicilyLines\SicilyLines\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-16.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-16.png</PackagePath>
-      <Modified>2025-03-25T08:17:03.317</Modified>
+      <Modified>2025-04-11T09:24:29.785</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kyosp\Documents\GitHub\SicilyLinesSite\projet mobile sicily\SicilyLines\SicilyLines\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-24.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-24.png</PackagePath>
-      <Modified>2025-03-25T08:17:03.317</Modified>
+      <Modified>2025-04-11T09:24:29.784</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kyosp\Documents\GitHub\SicilyLinesSite\projet mobile sicily\SicilyLines\SicilyLines\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-256.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-256.png</PackagePath>
-      <Modified>2025-03-25T08:17:03.315</Modified>
+      <Modified>2025-04-11T09:24:29.779</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kyosp\Documents\GitHub\SicilyLinesSite\projet mobile sicily\SicilyLines\SicilyLines\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-32.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-32.png</PackagePath>
-      <Modified>2025-03-25T08:17:03.316</Modified>
+      <Modified>2025-04-11T09:24:29.783</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kyosp\Documents\GitHub\SicilyLinesSite\projet mobile sicily\SicilyLines\SicilyLines\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-lightunplated_targetsize-48.png">
       <PackagePath>appiconLogo.altform-lightunplated_targetsize-48.png</PackagePath>
-      <Modified>2025-03-25T08:17:03.316</Modified>
+      <Modified>2025-04-11T09:24:29.782</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kyosp\Documents\GitHub\SicilyLinesSite\projet mobile sicily\SicilyLines\SicilyLines\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-16.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-16.png</PackagePath>
-      <Modified>2025-03-25T08:17:03.319</Modified>
+      <Modified>2025-04-11T09:24:29.789</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kyosp\Documents\GitHub\SicilyLinesSite\projet mobile sicily\SicilyLines\SicilyLines\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-24.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-24.png</PackagePath>
-      <Modified>2025-03-25T08:17:03.319</Modified>
+      <Modified>2025-04-11T09:24:29.789</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kyosp\Documents\GitHub\SicilyLinesSite\projet mobile sicily\SicilyLines\SicilyLines\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-256.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-256.png</PackagePath>
-      <Modified>2025-03-25T08:17:03.317</Modified>
+      <Modified>2025-04-11T09:24:29.786</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kyosp\Documents\GitHub\SicilyLinesSite\projet mobile sicily\SicilyLines\SicilyLines\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-32.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-32.png</PackagePath>
-      <Modified>2025-03-25T08:17:03.318</Modified>
+      <Modified>2025-04-11T09:24:29.788</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kyosp\Documents\GitHub\SicilyLinesSite\projet mobile sicily\SicilyLines\SicilyLines\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.altform-unplated_targetsize-48.png">
       <PackagePath>appiconLogo.altform-unplated_targetsize-48.png</PackagePath>
-      <Modified>2025-03-25T08:17:03.318</Modified>
+      <Modified>2025-04-11T09:24:29.787</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kyosp\Documents\GitHub\SicilyLinesSite\projet mobile sicily\SicilyLines\SicilyLines\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-100.png">
       <PackagePath>appiconLogo.scale-100.png</PackagePath>
-      <Modified>2025-03-25T08:17:03.324</Modified>
+      <Modified>2025-04-11T09:24:29.801</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kyosp\Documents\GitHub\SicilyLinesSite\projet mobile sicily\SicilyLines\SicilyLines\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-125.png">
       <PackagePath>appiconLogo.scale-125.png</PackagePath>
-      <Modified>2025-03-25T08:17:03.323</Modified>
+      <Modified>2025-04-11T09:24:29.799</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kyosp\Documents\GitHub\SicilyLinesSite\projet mobile sicily\SicilyLines\SicilyLines\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-150.png">
       <PackagePath>appiconLogo.scale-150.png</PackagePath>
-      <Modified>2025-03-25T08:17:03.323</Modified>
+      <Modified>2025-04-11T09:24:29.798</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kyosp\Documents\GitHub\SicilyLinesSite\projet mobile sicily\SicilyLines\SicilyLines\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-200.png">
       <PackagePath>appiconLogo.scale-200.png</PackagePath>
-      <Modified>2025-03-25T08:17:03.321</Modified>
+      <Modified>2025-04-11T09:24:29.796</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kyosp\Documents\GitHub\SicilyLinesSite\projet mobile sicily\SicilyLines\SicilyLines\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.scale-400.png">
       <PackagePath>appiconLogo.scale-400.png</PackagePath>
-      <Modified>2025-03-25T08:17:03.321</Modified>
+      <Modified>2025-04-11T09:24:29.795</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kyosp\Documents\GitHub\SicilyLinesSite\projet mobile sicily\SicilyLines\SicilyLines\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-16.png">
       <PackagePath>appiconLogo.targetsize-16.png</PackagePath>
-      <Modified>2025-03-25T08:17:03.321</Modified>
+      <Modified>2025-04-11T09:24:29.794</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kyosp\Documents\GitHub\SicilyLinesSite\projet mobile sicily\SicilyLines\SicilyLines\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-24.png">
       <PackagePath>appiconLogo.targetsize-24.png</PackagePath>
-      <Modified>2025-03-25T08:17:03.321</Modified>
+      <Modified>2025-04-11T09:24:29.792</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kyosp\Documents\GitHub\SicilyLinesSite\projet mobile sicily\SicilyLines\SicilyLines\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-256.png">
       <PackagePath>appiconLogo.targetsize-256.png</PackagePath>
-      <Modified>2025-03-25T08:17:03.319</Modified>
+      <Modified>2025-04-11T09:24:29.790</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kyosp\Documents\GitHub\SicilyLinesSite\projet mobile sicily\SicilyLines\SicilyLines\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-32.png">
       <PackagePath>appiconLogo.targetsize-32.png</PackagePath>
-      <Modified>2025-03-25T08:17:03.320</Modified>
+      <Modified>2025-04-11T09:24:29.792</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kyosp\Documents\GitHub\SicilyLinesSite\projet mobile sicily\SicilyLines\SicilyLines\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconLogo.targetsize-48.png">
       <PackagePath>appiconLogo.targetsize-48.png</PackagePath>
-      <Modified>2025-03-25T08:17:03.320</Modified>
+      <Modified>2025-04-11T09:24:29.791</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kyosp\Documents\GitHub\SicilyLinesSite\projet mobile sicily\SicilyLines\SicilyLines\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-100.png">
       <PackagePath>appiconMediumTile.scale-100.png</PackagePath>
-      <Modified>2025-03-25T08:17:03.310</Modified>
+      <Modified>2025-04-11T09:24:29.769</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kyosp\Documents\GitHub\SicilyLinesSite\projet mobile sicily\SicilyLines\SicilyLines\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-125.png">
       <PackagePath>appiconMediumTile.scale-125.png</PackagePath>
-      <Modified>2025-03-25T08:17:03.309</Modified>
+      <Modified>2025-04-11T09:24:29.767</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kyosp\Documents\GitHub\SicilyLinesSite\projet mobile sicily\SicilyLines\SicilyLines\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-150.png">
       <PackagePath>appiconMediumTile.scale-150.png</PackagePath>
-      <Modified>2025-03-25T08:17:03.309</Modified>
+      <Modified>2025-04-11T09:24:29.767</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kyosp\Documents\GitHub\SicilyLinesSite\projet mobile sicily\SicilyLines\SicilyLines\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-200.png">
       <PackagePath>appiconMediumTile.scale-200.png</PackagePath>
-      <Modified>2025-03-25T08:17:03.307</Modified>
+      <Modified>2025-04-11T09:24:29.765</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kyosp\Documents\GitHub\SicilyLinesSite\projet mobile sicily\SicilyLines\SicilyLines\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconMediumTile.scale-400.png">
       <PackagePath>appiconMediumTile.scale-400.png</PackagePath>
-      <Modified>2025-03-25T08:17:03.307</Modified>
+      <Modified>2025-04-11T09:24:29.765</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kyosp\Documents\GitHub\SicilyLinesSite\projet mobile sicily\SicilyLines\SicilyLines\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-100.png">
       <PackagePath>appiconSmallTile.scale-100.png</PackagePath>
-      <Modified>2025-03-25T08:17:03.312</Modified>
+      <Modified>2025-04-11T09:24:29.774</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kyosp\Documents\GitHub\SicilyLinesSite\projet mobile sicily\SicilyLines\SicilyLines\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-125.png">
       <PackagePath>appiconSmallTile.scale-125.png</PackagePath>
-      <Modified>2025-03-25T08:17:03.312</Modified>
+      <Modified>2025-04-11T09:24:29.774</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kyosp\Documents\GitHub\SicilyLinesSite\projet mobile sicily\SicilyLines\SicilyLines\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-150.png">
       <PackagePath>appiconSmallTile.scale-150.png</PackagePath>
-      <Modified>2025-03-25T08:17:03.311</Modified>
+      <Modified>2025-04-11T09:24:29.773</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kyosp\Documents\GitHub\SicilyLinesSite\projet mobile sicily\SicilyLines\SicilyLines\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-200.png">
       <PackagePath>appiconSmallTile.scale-200.png</PackagePath>
-      <Modified>2025-03-25T08:17:03.311</Modified>
+      <Modified>2025-04-11T09:24:29.772</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kyosp\Documents\GitHub\SicilyLinesSite\projet mobile sicily\SicilyLines\SicilyLines\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconSmallTile.scale-400.png">
       <PackagePath>appiconSmallTile.scale-400.png</PackagePath>
-      <Modified>2025-03-25T08:17:03.310</Modified>
+      <Modified>2025-04-11T09:24:29.771</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kyosp\Documents\GitHub\SicilyLinesSite\projet mobile sicily\SicilyLines\SicilyLines\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-100.png">
       <PackagePath>appiconStoreLogo.scale-100.png</PackagePath>
-      <Modified>2025-03-25T08:17:03.315</Modified>
+      <Modified>2025-04-11T09:24:29.778</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kyosp\Documents\GitHub\SicilyLinesSite\projet mobile sicily\SicilyLines\SicilyLines\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-125.png">
       <PackagePath>appiconStoreLogo.scale-125.png</PackagePath>
-      <Modified>2025-03-25T08:17:03.314</Modified>
+      <Modified>2025-04-11T09:24:29.777</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kyosp\Documents\GitHub\SicilyLinesSite\projet mobile sicily\SicilyLines\SicilyLines\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-150.png">
       <PackagePath>appiconStoreLogo.scale-150.png</PackagePath>
-      <Modified>2025-03-25T08:17:03.314</Modified>
+      <Modified>2025-04-11T09:24:29.776</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kyosp\Documents\GitHub\SicilyLinesSite\projet mobile sicily\SicilyLines\SicilyLines\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-200.png">
       <PackagePath>appiconStoreLogo.scale-200.png</PackagePath>
-      <Modified>2025-03-25T08:17:03.313</Modified>
+      <Modified>2025-04-11T09:24:29.776</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kyosp\Documents\GitHub\SicilyLinesSite\projet mobile sicily\SicilyLines\SicilyLines\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconStoreLogo.scale-400.png">
       <PackagePath>appiconStoreLogo.scale-400.png</PackagePath>
-      <Modified>2025-03-25T08:17:03.313</Modified>
+      <Modified>2025-04-11T09:24:29.775</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kyosp\Documents\GitHub\SicilyLinesSite\projet mobile sicily\SicilyLines\SicilyLines\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-100.png">
       <PackagePath>appiconWideTile.scale-100.png</PackagePath>
-      <Modified>2025-03-25T08:17:03.307</Modified>
+      <Modified>2025-04-11T09:24:29.763</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kyosp\Documents\GitHub\SicilyLinesSite\projet mobile sicily\SicilyLines\SicilyLines\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-125.png">
       <PackagePath>appiconWideTile.scale-125.png</PackagePath>
-      <Modified>2025-03-25T08:17:03.306</Modified>
+      <Modified>2025-04-11T09:24:29.749</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kyosp\Documents\GitHub\SicilyLinesSite\projet mobile sicily\SicilyLines\SicilyLines\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-150.png">
       <PackagePath>appiconWideTile.scale-150.png</PackagePath>
-      <Modified>2025-03-25T08:17:03.306</Modified>
+      <Modified>2025-04-11T09:24:29.749</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kyosp\Documents\GitHub\SicilyLinesSite\projet mobile sicily\SicilyLines\SicilyLines\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-200.png">
       <PackagePath>appiconWideTile.scale-200.png</PackagePath>
-      <Modified>2025-03-25T08:17:03.305</Modified>
+      <Modified>2025-04-11T09:24:29.749</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kyosp\Documents\GitHub\SicilyLinesSite\projet mobile sicily\SicilyLines\SicilyLines\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\appiconWideTile.scale-400.png">
       <PackagePath>appiconWideTile.scale-400.png</PackagePath>
-      <Modified>2025-03-25T08:17:03.305</Modified>
+      <Modified>2025-04-11T09:24:29.749</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kyosp\Documents\GitHub\SicilyLinesSite\projet mobile sicily\SicilyLines\SicilyLines\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-100.png">
       <PackagePath>dotnet_bot.scale-100.png</PackagePath>
-      <Modified>2025-03-25T08:17:03.326</Modified>
+      <Modified>2025-04-11T09:24:29.814</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kyosp\Documents\GitHub\SicilyLinesSite\projet mobile sicily\SicilyLines\SicilyLines\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-125.png">
       <PackagePath>dotnet_bot.scale-125.png</PackagePath>
-      <Modified>2025-03-25T08:17:03.326</Modified>
+      <Modified>2025-04-11T09:24:29.812</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kyosp\Documents\GitHub\SicilyLinesSite\projet mobile sicily\SicilyLines\SicilyLines\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-150.png">
       <PackagePath>dotnet_bot.scale-150.png</PackagePath>
-      <Modified>2025-03-25T08:17:03.325</Modified>
+      <Modified>2025-04-11T09:24:29.810</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kyosp\Documents\GitHub\SicilyLinesSite\projet mobile sicily\SicilyLines\SicilyLines\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-200.png">
       <PackagePath>dotnet_bot.scale-200.png</PackagePath>
-      <Modified>2025-03-25T08:17:03.325</Modified>
+      <Modified>2025-04-11T09:24:29.808</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kyosp\Documents\GitHub\SicilyLinesSite\projet mobile sicily\SicilyLines\SicilyLines\obj\Debug\net8.0-windows10.0.19041.0\win10-x64\resizetizer\r\dotnet_bot.scale-400.png">
       <PackagePath>dotnet_bot.scale-400.png</PackagePath>
-      <Modified>2025-03-25T08:17:03.324</Modified>
+      <Modified>2025-04-11T09:24:29.805</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kyosp\Documents\GitHub\SicilyLinesSite\projet mobile sicily\SicilyLines\SicilyLines\bin\Debug\net8.0-windows10.0.19041.0\win10-x64\SicilyLines.deps.json">
       <PackagePath>SicilyLines.deps.json</PackagePath>
-      <Modified>2025-04-07T11:35:14.364</Modified>
+      <Modified>2025-04-11T09:24:36.260</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\kyosp\.nuget\packages\microsoft.windows.sdk.net.ref\10.0.19041.57\lib\net8.0\Microsoft.Windows.SDK.NET.dll">
       <PackagePath>Microsoft.Windows.SDK.NET.dll</PackagePath>

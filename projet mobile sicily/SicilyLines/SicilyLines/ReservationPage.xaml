@@ -6,14 +6,109 @@
     xmlns:d="http://schemas.microsoft.com/dotnet/2021/maui/design"
     xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
     xmlns:local="clr-namespace:SicilyLines"
-    mc:Ignorable="d">
+    Title="Liste des réservations"
+    BackgroundColor="White">
+    <ContentPage.ToolbarItems>
+        <ToolbarItem>
+            <ToolbarItem.IconImageSource>
+                <FontImageSource FontFamily="MaterialIconsRegular" 
+                Glyph="&#xe5e0;"/>
+
+            </ToolbarItem.IconImageSource>
+        </ToolbarItem>
+    </ContentPage.ToolbarItems>
     <ContentPage.Content>
-        <Grid>
-            <Label
-                HorizontalOptions="Center"
-                Text="Welcome to .NET MAUI!!!"
-                TextColor="Purple"
-                VerticalOptions="Center"/>
+        <Grid Padding="10">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="50"/>
+                <RowDefinition Height="*"/>
+            </Grid.RowDefinitions>
+
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+
+            <StackLayout VerticalOptions="Center"
+                             HorizontalOptions="Center"
+                             WidthRequest="400">
+                <Label Text="Liste des réservations expirées"
+                       HorizontalOptions="Center"
+                       TextColor="Black"/>
+            </StackLayout>
+            <StackLayout Grid.Row="0"
+                             Grid.Column="1"
+                             VerticalOptions="Center"
+                             HorizontalOptions="Center"
+                             WidthRequest="400">
+                <Label Text="Liste des réservations valides"
+                       HorizontalOptions="Center"
+                       TextColor="Black"/>
+            </StackLayout>
+
+            <ListView Grid.Row="1"
+                      x:Name="maListViewReservationExpirees"
+                      Margin="30"
+                      WidthRequest="400">
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <ViewCell>
+                            <Grid BackgroundColor="Gray">
+                                
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="*"/>
+                                    <ColumnDefinition Width="*"/>
+                                </Grid.ColumnDefinitions>
+
+                                <StackLayout VerticalOptions="Center"
+                                             HorizontalOptions="Center">
+                                    <Label Text="{Binding IdTraversee}"
+                                       FontAttributes="Bold"/>
+                                </StackLayout>
+                                <StackLayout VerticalOptions="Center"
+                                             HorizontalOptions="Center"
+                                             Grid.Column="1">
+                                    <Label Text="{Binding DateTraversee}"
+                                       FontAttributes="Bold"/>
+                                </StackLayout>
+
+                            </Grid>
+                        </ViewCell>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+
+            <ListView Grid.Column="1"
+                      Grid.Row="1"
+                      x:Name="maListViewReservationValidees"
+                      Margin="30"
+                      WidthRequest="400">
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <ViewCell>
+                            <Grid BackgroundColor="LightGreen">
+
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="*"/>
+                                    <ColumnDefinition Width="*"/>
+                                </Grid.ColumnDefinitions>
+
+                                <StackLayout VerticalOptions="Center"
+                                             HorizontalOptions="Center">
+                                    <Label Text="{Binding IdTraversee}"
+                                       FontAttributes="Bold"/>
+                                </StackLayout>
+                                <StackLayout VerticalOptions="Center"
+                                             HorizontalOptions="Center"
+                                             Grid.Column="1">
+                                    <Label Text="{Binding DateTraversee}"
+                                       FontAttributes="Bold"/>
+                                </StackLayout>
+                            </Grid>
+                        </ViewCell>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
         </Grid>
     </ContentPage.Content>
 </ContentPage>

@@ -40,16 +40,15 @@ namespace API_SicilyLines
                 maConnexionSql.openConnection();
 
                 // exécution de la requete avec l'objer Command
-                Ocom = maConnexionSql.reqExec("Select * " +
-                                              "from reservation join client join traversee " +
-                                              "on client.id = reservation.idClient " +
-                                              "and traversee.id = reservation.idTraversee " +
-                                              "where idClient = " + client);
+                Ocom = maConnexionSql.reqExec("Select reservation.idReservation, reservation.idCLient, reservation.idTraversee, traversee.dateTraversee " +
+                                              "from reservation join traversee " +
+                                              "on traversee.id = reservation.idTraversee " +
+                                              "where reservation.idClient = " + client);
 
 
                 MySqlDataReader reader = Ocom.ExecuteReader();
 
-                Reservation r = null;
+                Reservation r;
 
 
 
