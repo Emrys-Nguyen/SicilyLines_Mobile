@@ -235,8 +235,8 @@ namespace APISicily
                     string adresse = (string)reader.GetValue(5);
                     string cp = (string)reader.GetValue(6);
 
-                    //Instanciation d'un Employe
-                    c = new Client(num, login, mdp,nom,prenom, adresse, cp);
+                    //Instanciation d'un Employe    
+                    c = new Client(num, login, mdp, nom, prenom, adresse, cp);
 
                     // Ajout de cet employe à la liste 
                     lc.Add(c);

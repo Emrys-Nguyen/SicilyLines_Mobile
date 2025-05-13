@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("API SicilyLines")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b322136bbc79410c36381934a5802243c850cb3e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+15cc00bc5bf211b5c1038b6a8fa69712bb86e3ca")]
 [assembly: System.Reflection.AssemblyProductAttribute("API SicilyLines")]
 [assembly: System.Reflection.AssemblyTitleAttribute("API SicilyLines")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

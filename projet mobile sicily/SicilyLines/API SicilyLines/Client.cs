@@ -24,7 +24,7 @@
         public string Adresse { get => adresse; set => adresse = value; }
 
         // Constructeur de la classe Employe
-        public Client(int unId, string unLogin, string unMdp, string unNom,string unPrenom, string uneAdresse, string unCp)
+        public Client(int unId, string unLogin, string unMdp, string unNom, string unPrenom, string uneAdresse, string unCp)
         {
             this.id = unId;
             this.login = unLogin;

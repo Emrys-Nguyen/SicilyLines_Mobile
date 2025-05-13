@@ -4,7 +4,6 @@ namespace SicilyLines
 {
     public partial class ConnexionClient : ContentPage
     {
-
         public ConnexionClient()
         {
             InitializeComponent();
@@ -21,7 +20,7 @@ namespace SicilyLines
                 bool res = false;
                 var content = await response.Content.ReadAsStringAsync();
                 var Items = JsonConvert.DeserializeObject<dynamic>(content);
-                int idClient = 0;
+                int idLogin = 0;
 
 
                 foreach (var item in Items)
@@ -32,14 +31,14 @@ namespace SicilyLines
                     if (login == Login.Text && mdp == Password.Text)
                     {
 
-                        idClient = item.id;
                         res = true;
+                        idLogin = item.id;
                     }
 
                 }
                 if (res)
                 {
-                    await Navigation.PushAsync(new affichage_button(idClient));
+                    await Navigation.PushAsync(new ReservationPage(idLogin));
                 }
                 else
                 {
