@@ -12,49 +12,61 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = SicilyLines
-build_property.ProjectDir = C:\Users\kyosp\Documents\GitHub\SicilyLinesSite\projet mobile sicily\SicilyLines\SicilyLines\
+build_property.ProjectDir = C:\Users\kyosp\Desktop\SicilyLines\SicilyLines\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.EffectiveAnalysisLevelStyle = 8.0
 build_property.EnableCodeStyleSeverity = 
 
-[C:/Users/kyosp/Documents/GitHub/SicilyLinesSite/projet mobile sicily/SicilyLines/SicilyLines/App.xaml]
+[C:/Users/kyosp/Desktop/SicilyLines/SicilyLines/affichage_button.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = SicilyLines.affichage_button.xaml
+build_metadata.AdditionalFiles.TargetPath = affichage_button.xaml
+build_metadata.AdditionalFiles.RelativePath = affichage_button.xaml
+
+[C:/Users/kyosp/Desktop/SicilyLines/SicilyLines/App.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = SicilyLines.App.xaml
 build_metadata.AdditionalFiles.TargetPath = App.xaml
 build_metadata.AdditionalFiles.RelativePath = App.xaml
 
-[C:/Users/kyosp/Documents/GitHub/SicilyLinesSite/projet mobile sicily/SicilyLines/SicilyLines/AppShell.xaml]
+[C:/Users/kyosp/Desktop/SicilyLines/SicilyLines/AppShell.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = SicilyLines.AppShell.xaml
 build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
 build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
 
-[C:/Users/kyosp/Documents/GitHub/SicilyLinesSite/projet mobile sicily/SicilyLines/SicilyLines/ConnexionClient.xaml]
+[C:/Users/kyosp/Desktop/SicilyLines/SicilyLines/ConnexionClient.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = SicilyLines.ConnexionClient.xaml
 build_metadata.AdditionalFiles.TargetPath = ConnexionClient.xaml
 build_metadata.AdditionalFiles.RelativePath = ConnexionClient.xaml
 
-[C:/Users/kyosp/Documents/GitHub/SicilyLinesSite/projet mobile sicily/SicilyLines/SicilyLines/MainPage.xaml]
+[C:/Users/kyosp/Desktop/SicilyLines/SicilyLines/Coordonnee_client.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = SicilyLines.Coordonnee_client.xaml
+build_metadata.AdditionalFiles.TargetPath = Coordonnee_client.xaml
+build_metadata.AdditionalFiles.RelativePath = Coordonnee_client.xaml
+
+[C:/Users/kyosp/Desktop/SicilyLines/SicilyLines/MainPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = SicilyLines.MainPage.xaml
 build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
 build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
 
-[C:/Users/kyosp/Documents/GitHub/SicilyLinesSite/projet mobile sicily/SicilyLines/SicilyLines/ReservationPage.xaml]
+[C:/Users/kyosp/Desktop/SicilyLines/SicilyLines/ReservationPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = SicilyLines.ReservationPage.xaml
 build_metadata.AdditionalFiles.TargetPath = ReservationPage.xaml
 build_metadata.AdditionalFiles.RelativePath = ReservationPage.xaml
 
-[C:/Users/kyosp/Documents/GitHub/SicilyLinesSite/projet mobile sicily/SicilyLines/SicilyLines/Resources/Styles/Colors.xaml]
+[C:/Users/kyosp/Desktop/SicilyLines/SicilyLines/Resources/Styles/Colors.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = SicilyLines.Resources.Styles.Colors.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
 build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
 
-[C:/Users/kyosp/Documents/GitHub/SicilyLinesSite/projet mobile sicily/SicilyLines/SicilyLines/Resources/Styles/Styles.xaml]
+[C:/Users/kyosp/Desktop/SicilyLines/SicilyLines/Resources/Styles/Styles.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = SicilyLines.Resources.Styles.Styles.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml

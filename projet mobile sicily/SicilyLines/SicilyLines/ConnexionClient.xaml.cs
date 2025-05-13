@@ -38,7 +38,7 @@ namespace SicilyLines
                 }
                 if (res)
                 {
-                    await Navigation.PushAsync(new ReservationPage(idLogin));
+                    await Navigation.PushAsync(new affichage_button(idLogin));
                 }
                 else
                 {

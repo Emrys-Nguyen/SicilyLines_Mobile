@@ -9,10 +9,10 @@ public partial class affichage_button : ContentPage
         InitializeComponent();
 	}
 
-    private void Button_Clicked(object sender, EventArgs e)
+    private async void Button_Clicked(object sender, EventArgs e)
     {
         //reservation
-
+        await Navigation.PushAsync(new ReservationPage(idClient));
     }
 
     private async void Button_Clicked_1(object sender, EventArgs e)
