@@ -16,6 +16,12 @@ build_property.ProjectDir = C:\Users\annec\Documents\GitHub\SicilyLinesSite\proj
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 
+[C:/Users/annec/Documents/GitHub/SicilyLinesSite/projet mobile sicily/SicilyLines/SicilyLines/affichage_button.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = SicilyLines.affichage_button.xaml
+build_metadata.AdditionalFiles.TargetPath = affichage_button.xaml
+build_metadata.AdditionalFiles.RelativePath = affichage_button.xaml
+
 [C:/Users/annec/Documents/GitHub/SicilyLinesSite/projet mobile sicily/SicilyLines/SicilyLines/App.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = SicilyLines.App.xaml
@@ -33,6 +39,12 @@ build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = SicilyLines.ConnexionClient.xaml
 build_metadata.AdditionalFiles.TargetPath = ConnexionClient.xaml
 build_metadata.AdditionalFiles.RelativePath = ConnexionClient.xaml
+
+[C:/Users/annec/Documents/GitHub/SicilyLinesSite/projet mobile sicily/SicilyLines/SicilyLines/Coordonnee_client.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = SicilyLines.Coordonnee_client.xaml
+build_metadata.AdditionalFiles.TargetPath = Coordonnee_client.xaml
+build_metadata.AdditionalFiles.RelativePath = Coordonnee_client.xaml
 
 [C:/Users/annec/Documents/GitHub/SicilyLinesSite/projet mobile sicily/SicilyLines/SicilyLines/MainPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml

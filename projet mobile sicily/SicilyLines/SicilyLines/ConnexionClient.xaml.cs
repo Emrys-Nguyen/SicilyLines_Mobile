@@ -4,6 +4,7 @@ namespace SicilyLines
 {
     public partial class ConnexionClient : ContentPage
     {
+
         public ConnexionClient()
         {
             InitializeComponent();
@@ -18,9 +19,9 @@ namespace SicilyLines
             if (response.IsSuccessStatusCode)
             {
                 bool res = false;
-
                 var content = await response.Content.ReadAsStringAsync();
                 var Items = JsonConvert.DeserializeObject<dynamic>(content);
+                int idClient = 0;
 
 
                 foreach (var item in Items)
@@ -31,13 +32,14 @@ namespace SicilyLines
                     if (login == Login.Text && mdp == Password.Text)
                     {
 
+                        idClient = item.id;
                         res = true;
                     }
 
                 }
                 if (res)
                 {
-                    await Navigation.PushAsync(new MainPage());
+                    await Navigation.PushAsync(new affichage_button(idClient));
                 }
                 else
                 {

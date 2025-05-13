@@ -167,11 +167,13 @@ namespace APISicily
                     int num = (int)reader.GetValue(0);
                     string login = (string)reader.GetValue(1);
                     string mdp = (string)reader.GetValue(2);
-                    string adresse = (string)reader.GetValue(3);
-                    string cp = (string)reader.GetValue(4);
+                    string nom = (string)reader.GetValue(3);
+                    string prenom = (string)reader.GetValue(4);
+                    string adresse = (string)reader.GetValue(5);
+                    string cp = (string)reader.GetValue(6);
 
                     //Instanciation d'un Employe
-                    c = new Client(num, login, mdp, adresse, cp);
+                    c = new Client(num, login, mdp, nom, prenom, adresse, cp);
 
                 }
 
@@ -228,11 +230,13 @@ namespace APISicily
                     int num = (int)reader.GetValue(0);
                     string login = (string)reader.GetValue(1);
                     string mdp = (string)reader.GetValue(2);
-                    string adresse = (string)reader.GetValue(3);
-                    string cp = (string)reader.GetValue(4);
+                    string nom = (string)reader.GetValue(3);
+                    string prenom = (string)reader.GetValue(4);
+                    string adresse = (string)reader.GetValue(5);
+                    string cp = (string)reader.GetValue(6);
 
                     //Instanciation d'un Employe
-                    c = new Client(num, login, mdp, adresse, cp);
+                    c = new Client(num, login, mdp,nom,prenom, adresse, cp);
 
                     // Ajout de cet employe à la liste 
                     lc.Add(c);
